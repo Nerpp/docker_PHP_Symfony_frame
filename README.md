@@ -50,7 +50,8 @@ Puisque votre application Symfony se trouve dans le sous-dossier project, vous d
 # Cloner le dépôt Git
 # Clonez votre projet depuis le dépôt et positionnez-vous dans le répertoire cloné :
 
-git clone https://github.com/votre-utilisateur/test_docker_symfony.git
+git clone https://github.com/votre-utilisateur/docker_PHP_Symfony_frame.git
+
 cd test_docker_symfony
 
 
